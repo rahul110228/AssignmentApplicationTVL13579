@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="green">#16801f</color>
+    <color name="yellow">#c6bd1f</color>
+    <color name="red">#9c2121</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black_shade_1">#0e2433</color>
+    <color name="black_shade_2">#1C4966</color>
+    <color name="black_shade_3">#22252D</color>
+    <color name="gray">#757474</color>
+    <color name="gray_2">#4E4E4E</color>
+    <color name="dark_blue_shade">#0D2162</color>
+    <color name="dark_blue_shade_2">#17388E</color>
+    <color name="light_blue_shade">#12B2E6</color>
+    <item name="red_400" type="color">#e84e40</item>
+    <item name="pink_400" type="color">#ec407a</item>
+    <item name="purple_400" type="color">#ab47bc</item>
+    <item name="deep_purple_400" type="color">#7e57c2</item>
+    <item name="indigo_400" type="color">#5c6bc0</item>
+    <item name="blue_400" type="color">#738ffe</item>
+    <item name="light_blue_400" type="color">#29b6f6</item>
+    <item name="cyan_400" type="color">#26c6da</item>
+    <item name="teal_400" type="color">#26a69a</item>
+    <item name="green_400" type="color">#2baf2b</item>
+    <item name="light_green_400" type="color">#9ccc65</item>
+    <item name="lime_400" type="color">#d4e157</item>
+    <item name="yellow_400" type="color">#ffee58</item>
+    <item name="orange_400" type="color">#ffa726</item>
+    <item name="deep_orange_400" type="color">#ff7043</item>
+    <item name="brown_400" type="color">#8d6e63</item>
+    <item name="grey_400" type="color">#bdbdbd</item>
+    <item name="blue_grey_400" type="color">#78909c</item>
+    <item name="cream" type="color">#F6DEBA</item>
+</resources>
